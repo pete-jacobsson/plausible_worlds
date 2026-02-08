@@ -1,0 +1,19 @@
+/* --- Text: Cambria --- */
+body, p, li, .about-link {
+  font-family: 'Cambria', Georgia, serif;
+  font-size: 1.1rem; /* Slightly larger for readability */
+}
+
+/* --- Headers & UI: Corbel --- */
+h1, h2, h3, h4, h5, h6, 
+.navbar-brand, .nav-link, 
+.btn, button, input[type="submit"] {
+  font-family: 'Corbel', 'Lucida Sans', sans-serif;
+  font-weight: 600;
+}
+
+/* --- Extra Polish --- */
+/* Ensure the navbar stands out cleanly */
+.navbar {
+  border-bottom: 1px solid #dee2e6;
+}

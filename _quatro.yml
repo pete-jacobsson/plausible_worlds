@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Plausible Worlds" # Change this to your site name
+  navbar:
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "RPGs"
+        href: rpgs.qmd
+      - text: "Pseudo-intellectualism"
+        href: pseudo.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo       # A clean base theme
+    css: styles.css    # Links your custom font rules
+    toc: true

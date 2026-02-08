@@ -1,6 +1,13 @@
 ---
-title: "About"
-author: "Pete"
-format: html
+title: "RPGs"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  include:
+    categories: "RPGs" # <--- The Filter Logic
 ---
 
+## The TTRPG side of things
+Here are all RPG/fantasy/etc. posts

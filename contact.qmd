@@ -1,6 +1,25 @@
 ---
-title: "About"
-author: "Pete"
-format: html
+title: "Contact"
 ---
 
+Please feel free to reach out using the form below. BTW this is likely still dead. Will update you when it actually starts working :)
+
+<form name="contact" method="POST" data-netlify="true" action="/success.html">
+  
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  
+  <p>
+    <label>Message: <textarea name="message" rows="5"></textarea></label>
+  </p>
+  
+  <p>
+    <button type="submit" class="btn btn-primary">Send Message</button>
+  </p>
+
+</form>

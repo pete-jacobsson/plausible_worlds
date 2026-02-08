@@ -1,6 +1,13 @@
 ---
-title: "About"
-author: "Pete"
-format: html
+title: "Pseudo-Intellectual stuff"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  include:
+    categories: "Pseudo-Intellectualism" # <--- The Filter Logic
 ---
 
+## Musings & Thoughts
+Posts making simple things more complex than they need to be, in the worst of under-edited academese. Enjoy.

@@ -1,6 +1,23 @@
 ---
 title: "About"
-author: "Pete"
-format: html
+about:
+  template: jolla      # A nice clean layout for bio pages
+  ##image: images/profile.jpg # You will need to add a profile pic to an 'images' folder
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
 ---
 
+Hello and welcome to the _Plausible Worlds_ blog, aka the place where I dump half-boiled ideas.
+
+You will see from the tab that we’ve got two main categories going on. **One is RPGs** - the place where any posts on things relating to table top RPGs go. To understand what goes on there you will need to have some basic awareness of what a TTRPG is, a handful of systems I obsess about and a general awareness of Sci-Fi, Science Fantasy and Fantasy might be useful as well.
+
+The other side of the blog is **Pseudo-intellectual stuff**. This is the place where I would be trying to do my best Nicolas Nassim Taleb impression. I say “would” because I am not leaning very much into the “best” part of the equation. As a matter of fact you will notice that most stuff that gets posted here is on the rough side when it comes to editing and being made to look pretty. That is because **I only edit when I really have to**. It’s a matter of defining alternate priorities: as you can see from how this site looks like, aesthetics is not something I tend to spend too much time on - at least as far as the stuff I come up with goes.
+
+The **two blocks are loosely connected**, as some themes, such as systemic issues, questions of immanence, imagination, correspondence between our model of reality and the said reality and the effects of this lack of correspondence on our lives itself run across them. The recurring theme is how the mechanics we use to build models of reality, upon which we later act, relate to that reality itself, what happens when they are at odds, and what kinds of interpretations (don’t) sharpen the **differentiation between explicit imaginaries and what gets referred to as “the real world”**. I’ll get around to clearing this up later in the Monte Cook and Robert McNamara post.
+
+It would have been a pseudo-Kantian affair had I remembered anything of the Critiques. _Also, all posts at some point will get linked to a word cloud as a means of incipient organization. But this may be a song for the far future_
