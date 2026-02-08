@@ -4,7 +4,7 @@ Here I keep the stuff going into the Plausible Worlds blog
 
 
 # Repo map
-
+```
 my-blog-repo/
 ├── .gitignore             # Files to ignore (e.g., .Rproj.user, _site/)
 ├── _quarto.yml            # The main configuration (Navbar, project type, theme)
@@ -22,3 +22,4 @@ my-blog-repo/
 │   └── 2024-02-05-second-post/
 │       └── index.md
 └── images/                # Site-wide images (logo, profile pic, etc.)
+```
